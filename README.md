@@ -2,6 +2,7 @@
 
 this repo colored divs
 
-This is URL:
+rawGit - allready don't work and I must learn how to use 'gitHub pages'
+or something another resource to show my progect in ready state
 
-https://rawgit.com/Boban7/Chose-color-to-div/master/index.html
+
